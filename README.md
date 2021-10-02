@@ -12,6 +12,8 @@
   <img align="center" alt="Jss-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
  
+  ##
+  
 <div> 
   <a href="https://instagram.com/jsouzadasilveira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=purple" target="_blank"></a>
  	<a href="https://www.twitter.com/JsouzaSilveira" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23E4405F?style=for-the-badge&logo=twitter&logoColor=purple" target="_blank"></a>

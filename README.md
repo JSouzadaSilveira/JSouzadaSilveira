@@ -1,4 +1,4 @@
-## Hello World! Eu sou Jonathan Siyza
+## Hello World! Eu sou Jonathan Souza
 <div align="center">
   <a href="https://github.com/JSouzadaSilveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JSouzadaSilveira&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>

@@ -19,6 +19,4 @@
  	<a href="https://www.twitter.com/JsouzaSilveira" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23E4405F?style=for-the-badge&logo=twitter&logoColor=purple" target="_blank"></a>
   <a href = "jonathansouzadasilveira17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=purple" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jonathan-souza-252974191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=purple" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/JSouzadaSilveira/JSouzadaSilveira/blob/output/github-contribution-grid-snake.svg)
 </div>
